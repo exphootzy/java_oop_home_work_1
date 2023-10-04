@@ -34,5 +34,6 @@ public class Programm {
         else {
             System.out.println("You bought:");
             System.out.println(hotDrink.displayInfo());
+
     }
 }
